@@ -4,7 +4,8 @@
   "description": "",
   "main": "",
   "scripts": {
-    "test": "jest --watchAll"
+    "test": "jest --watchAll",
+    "test-ci": "jest"
   },
   "author": "",
   "license": "ISC",
